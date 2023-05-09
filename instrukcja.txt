@@ -1,0 +1,6 @@
+OpenSSH client must be installed. aplikacje i funkcje => funkcje opcjonalne => Klient OpenSSH
+
+1.Najpierw Odpalamy powershell jako administrator i ustawiamy Set-ExecutionPolicy RemoteSigned
+
+# Wymagane jest zainstalowanie modułu Posh-SSH. Można go zainstalować za pomocą polecenia Install-Module Posh-SSH w powershell.
+
